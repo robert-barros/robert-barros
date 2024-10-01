@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello, I'm Robert!<br><br>
 🎓 I am a developer with experience in PHP, Java, C++, and Python.<br><br>
-📚 Improving my skills in Ruby, C#.
+📚 Improving my skills in Ruby, C#.<br><br>
 💡 I am improving my skills in desktop software development and web development.<br><br>
 🚀 Currently, I am seeking more practical experience in systems development and automation.<br><br>
 
