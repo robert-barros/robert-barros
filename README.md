@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hello, I'm Robert!<br><br>
 🎓 I am a developer with experience in PHP, Java, C++, and Python.<br><br>
 📚 Improving my skills in Ruby, C#.<br><br>
